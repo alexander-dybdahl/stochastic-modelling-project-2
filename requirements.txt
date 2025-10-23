@@ -1,0 +1,11 @@
+# R Package Requirements for Stochastic Modeling Project 2
+
+# Core packages for Gaussian process modeling and visualization
+ggplot2
+reshape2 
+latex2exp
+
+# Note: Base R packages used for stochastic simulation
+# - stats (for rexp, runif, rnorm, qt distribution functions)
+# - base (for matrix operations, mathematical functions)
+# - graphics (for plot, lines, barplot visualization functions)
